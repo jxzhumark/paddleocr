@@ -1,0 +1,7 @@
+# venvs
+venvs/
+# output files
+out/*
+# model/
+model/hf/*
+model/ms/*
